@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @LegiteriumZ
+# 👋 Hi, I’m LegiteriumZ
 
-
+> [![View count](https://visitcount.itsvg.in/api?id=LegiteriumZ&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=LegiteriumZ)
 <!---
 LegiteriumZ/LegiteriumZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
